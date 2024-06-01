@@ -1,6 +1,6 @@
 // By Anshul Saini
 
-// bubble sort here 
+// bubble sort her nn
 void bubble_sort(int *arr, int len)
 {
 
