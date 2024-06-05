@@ -1,7 +1,7 @@
 // By Anshul Saini
 
 // bubble sort
-
+// something better then nothing
 
 void bubble_sort(int *arr, int len)
 {
