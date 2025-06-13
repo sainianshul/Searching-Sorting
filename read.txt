@@ -1,1 +1,4 @@
-i think they count it
+    "Booking Accepted" => "الحجز مقبول",
+    "Your booking has been accepted" => "لقد تم قبول حجزك",
+    "New Service Request Is Added" => "تمت إضافة طلب خدمة جديد",
+    "Booking Confirmed" => "تم تأكيد الحجز"
