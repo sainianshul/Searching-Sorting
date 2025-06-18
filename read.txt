@@ -7,3 +7,6 @@ $serviceModel = ServiceDetail::findActive()->andWhere([
             'created_by_id' => $model->provider_id
         ])
             ->all();
+
+
+$serviceIds = array_filter(array_map('intval', explode(',', $model->service_id)));
